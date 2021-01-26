@@ -6,7 +6,7 @@ The purpose of this analysis was to analyze Amazon reviews written by members of
 
 ## Results
 
-![paid totals](url) ![unpaid totals](url)
+![paid totals](https://github.com/myljacobo/Amazon_Vine_Analysis/blob/main/images/paid%20totals.png?raw=true) ![unpaid totals](https://github.com/myljacobo/Amazon_Vine_Analysis/blob/main/images/unpaid%20totals.png?raw=true)
 
 - There were a total of 607 Vine/paid reviews and 50522 non-Vine/unpaid reviews.
 
@@ -14,7 +14,7 @@ The purpose of this analysis was to analyze Amazon reviews written by members of
 
 - The perecentage of Vine/paid reviews that were 5 stars was 42.3% and the percentage of non-Vine/unpaid reviews that were 5 stars was 49.9%.
 
-![paid](url) ![unpaid](url)
+![paid](https://github.com/myljacobo/Amazon_Vine_Analysis/blob/main/images/paid.png?raw=true) ![unpaid](https://github.com/myljacobo/Amazon_Vine_Analysis/blob/main/images/unpaid.png?raw=true)
 
 ## Summary
 
